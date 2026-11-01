@@ -58,5 +58,4 @@ adb push my-backup.json /sdcard/Download/        # then More > Print & backup > 
 - Database work is tiny and synchronous.
 
 ## If the build fails
-Paste the first error block back to Claude. The likeliest early issues are dependency or plugin
-version mismatches, which are quick to fix.
+Fix it :-) lol
