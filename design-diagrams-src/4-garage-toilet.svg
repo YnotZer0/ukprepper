@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860">
+<style>@import url(common.css);</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0L10,5L0,10z" fill="#111"/></marker></defs>
+<rect width="1200" height="860" fill="#fff"/>
+<text x="40" y="50" class="t">4. Garage emergency toilet - separating box</text>
+<text x="40" y="84" class="s">Front view with the front panel removed. Seat height about 45 cm.</text>
+<!-- floor -->
+<path d="M0,760 L1200,760" stroke="#111" stroke-width="4"/>
+<rect x="120" y="740" width="560" height="20" fill="#ccc"/>
+<text x="130" y="792" class="s">waterproof mat / tray under everything</text>
+<!-- box -->
+<rect x="160" y="330" width="480" height="410" fill="#fff" stroke="#111" stroke-width="5"/>
+<rect x="140" y="300" width="520" height="34" fill="#a9825a" stroke="#111" stroke-width="3"/>
+<text x="40" y="250" class="s">hinged seat board</text><path d="M120,258 L160,300" class="lead"/>
+<!-- seat -->
+<ellipse cx="400" cy="290" rx="120" ry="22" fill="#eee" stroke="#111" stroke-width="3"/>
+<!-- diverter -->
+<path d="M300,334 L340,334 L330,380 L310,380 Z" fill="#f6e7a0" stroke="#111" stroke-width="2"/>
+<path d="M320,380 L240,450 L240,520" stroke="#c9a400" stroke-width="10" fill="none"/>
+<!-- urine bottle -->
+<rect x="190" y="520" width="110" height="210" rx="14" fill="#f6e7a0" stroke="#111" stroke-width="3"/>
+<rect x="225" y="505" width="40" height="18" fill="#666"/>
+<text x="245" y="640" class="s" text-anchor="middle">10 L</text>
+<text x="245" y="664" class="s" text-anchor="middle">urine</text>
+<text x="245" y="688" class="s" text-anchor="middle">bottle</text>
+<!-- solids bucket -->
+<path d="M360,430 L600,430 L585,730 L375,730 Z" fill="#ddd" stroke="#111" stroke-width="3"/>
+<path d="M360,430 L600,430" stroke="#111" stroke-width="5"/>
+<rect x="378" y="640" width="204" height="86" fill="#e3c17a"/>
+<text x="480" y="690" class="s" text-anchor="middle">cover material</text>
+<text x="480" y="500" class="l" text-anchor="middle">solids</text>
+<text x="480" y="530" class="s" text-anchor="middle">bucket (20 L, lidded)</text>
+<text x="480" y="556" class="s" text-anchor="middle">strong bag liner</text>
+<!-- vent -->
+<path d="M620,360 L760,360 L760,140 L1000,140" stroke="#222" stroke-width="16" fill="none"/>
+<rect x="985" y="110" width="30" height="60" fill="#666"/>
+<text x="790" y="232" class="s">optional vent to outside</text>
+<text x="790" y="258" class="s">with a 12 V PC fan (1-2 W)</text>
+<text x="790" y="284" class="s">run from the AFERIY / van</text>
+<!-- side kit -->
+<rect x="820" y="560" width="110" height="180" fill="#e3c17a" stroke="#111" stroke-width="3"/>
+<text x="875" y="660" class="s" text-anchor="middle">sawdust</text><text x="875" y="684" class="s" text-anchor="middle">+ scoop</text>
+<rect x="960" y="500" width="190" height="240" fill="#bcd7ef" stroke="#111" stroke-width="3"/>
+<text x="1055" y="590" class="s" text-anchor="middle">hand-wash</text>
+<text x="1055" y="614" class="s" text-anchor="middle">water + tap,</text>
+<text x="1055" y="638" class="s" text-anchor="middle">soap, towel,</text>
+<text x="1055" y="662" class="s" text-anchor="middle">sanitiser</text>
+<text x="40" y="830" class="s">Keep beside it: spare bags, gloves, vinegar spray, toilet roll in a lidded box, a torch.</text>
+</svg>

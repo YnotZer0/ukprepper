@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<style>@import url(common.css);</style>
+<defs>
+<pattern id="soil" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="#c9b38c"/><circle cx="5" cy="6" r="2" fill="#9c8662"/></pattern>
+<pattern id="chip" width="22" height="16" patternUnits="userSpaceOnUse"><rect width="22" height="16" fill="#d9b77e"/><rect x="2" y="3" width="10" height="4" fill="#a87d45" transform="rotate(20 7 5)"/><rect x="12" y="9" width="9" height="4" fill="#b88b52"/></pattern>
+</defs>
+<rect width="1200" height="820" fill="#fff"/>
+<text x="40" y="50" class="t">3. Keeping urine separate - self-emptying, low-smell</text>
+<path d="M80,150 L300,150 L270,240 L110,240 Z" fill="#eee" stroke="#111" stroke-width="3"/>
+<path d="M120,160 Q190,220 260,160" fill="#f6e7a0" stroke="#111" stroke-width="2"/>
+<text x="190" y="130" class="l" text-anchor="middle">diverter (front of seat)</text>
+<text x="330" y="180" class="s">after use: a cupful of water</text>
+<text x="330" y="204" class="s">+ a splash of vinegar</text>
+<path d="M190,225 L190,320 L480,380 L480,480" stroke="#c9a400" stroke-width="12" fill="none"/>
+<text x="40" y="420" class="s">32-40 mm pipe, steady fall,</text>
+<text x="40" y="444" class="s">no dips where urine can sit</text>
+<!-- tank -->
+<rect x="400" y="440" width="170" height="220" rx="16" fill="#fff" stroke="#111" stroke-width="4"/>
+<rect x="406" y="490" width="158" height="164" rx="10" fill="#f6e7a0"/>
+<path d="M480,400 L480,630" stroke="#c9a400" stroke-width="12"/>
+<path d="M564,500 L700,500 L760,700" stroke="#c9a400" stroke-width="10" fill="none"/>
+<text x="600" y="430" class="l">sealed tank = smell trap</text>
+<text x="600" y="462" class="s">inlet reaches near the bottom: the urine</text>
+<text x="600" y="486" class="s">itself seals the pipe against air</text>
+<text x="770" y="560" class="s">overflow near the top runs on</text>
+<text x="770" y="584" class="s">to the trench - nothing to carry</text>
+<text x="770" y="620" class="s">shaded; cap closed; descale monthly</text>
+<!-- trench -->
+<rect x="0" y="690" width="1200" height="130" fill="url(#soil)"/>
+<rect x="640" y="690" width="520" height="70" fill="url(#chip)" stroke="#111" stroke-width="3"/>
+<path d="M660,725 L1140,725" stroke="#333" stroke-width="8" stroke-dasharray="10 8"/>
+<rect x="30" y="706" width="590" height="104" fill="#fff" opacity="0.92" rx="8"/>
+<text x="45" y="734" class="s">Trench: 30 cm deep, wood chip / chopped branches,</text>
+<text x="45" y="760" class="s">perforated pipe along the middle. Top up the chip often.</text>
+<text x="45" y="786" class="s" fill="#a00">Not where you gather nuts; never into ditches or drains.</text>
+<text x="900" y="790" class="s" text-anchor="middle">perforated pipe in wood chip</text>
+</svg>

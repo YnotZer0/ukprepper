@@ -1,0 +1,6 @@
+uk.prepper.app
+color launcher_bg
+drawable ic_launcher_foreground
+mipmap ic_launcher
+string app_name
+style Theme_Prepper

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.prepper.app-mergeDebugResources-57:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/tony/.gradle/caches/9.3.1/transforms/7a3ae56adba556c516cd56438b802607/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

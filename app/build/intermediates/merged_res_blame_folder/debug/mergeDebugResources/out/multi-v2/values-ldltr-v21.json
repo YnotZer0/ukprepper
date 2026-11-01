@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.prepper.app-mergeDebugResources-57:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/tony/.gradle/caches/9.3.1/transforms/92e97cc9726ae954674fd38c5378c8c9/transformed/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

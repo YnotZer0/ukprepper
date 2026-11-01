@@ -1,0 +1,8 @@
+text{font-family:'DejaVu Sans',sans-serif}
+.t{font-size:30px;font-weight:bold}
+.l{font-size:24px}
+.s{font-size:20px}
+.ln{stroke:#111;stroke-width:3;fill:none}
+.thin{stroke:#111;stroke-width:2;fill:none}
+.dash{stroke:#111;stroke-width:2.5;fill:none;stroke-dasharray:12 8}
+.lead{stroke:#555;stroke-width:1.8;fill:none}

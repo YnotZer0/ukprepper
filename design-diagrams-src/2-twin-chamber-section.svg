@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980">
+<style>@import url(common.css);</style>
+<defs>
+<pattern id="soil" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="#c9b38c"/><circle cx="5" cy="6" r="2" fill="#9c8662"/><circle cx="14" cy="15" r="2" fill="#9c8662"/></pattern>
+<pattern id="brush" width="40" height="22" patternUnits="userSpaceOnUse"><rect width="40" height="22" fill="#e6d3a8"/><path d="M0,18 L40,4 M5,4 L35,20" stroke="#7a5a33" stroke-width="3"/></pattern>
+<pattern id="straw" width="24" height="12" patternUnits="userSpaceOnUse"><rect width="24" height="12" fill="#f0dc8c"/><path d="M0,10 L24,2" stroke="#c9a94a" stroke-width="2"/></pattern>
+</defs>
+<rect width="1200" height="980" fill="#fff"/>
+<text x="40" y="50" class="t">2. Twin pit in the existing hole - side section</text>
+<text x="40" y="84" class="s">Along the 1.8 m length. Seat about 45 cm above the platform.</text>
+<!-- wall -->
+<rect x="80" y="130" width="60" height="760" fill="#9a8f84" stroke="#111" stroke-width="2"/>
+<text x="110" y="120" class="s" text-anchor="middle">wall</text>
+<!-- ground -->
+<rect x="140" y="590" width="1060" height="390" fill="url(#soil)"/>
+<!-- banked soil -->
+<path d="M140,590 L230,560 L260,560 L260,590 Z" fill="#b39a6f"/>
+<path d="M920,560 L950,560 L1060,590 L920,590 Z" fill="#b39a6f"/>
+<!-- pits -->
+<rect x="260" y="590" width="300" height="270" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="590" y="590" width="300" height="270" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="560" y="530" width="30" height="330" fill="#777"/>
+<rect x="263" y="800" width="294" height="57" fill="url(#brush)"/>
+<rect x="593" y="800" width="294" height="57" fill="url(#brush)"/>
+<rect x="263" y="775" width="294" height="25" fill="url(#straw)"/>
+<rect x="593" y="775" width="294" height="25" fill="url(#straw)"/>
+<path d="M263,775 Q410,640 557,775 Z" fill="#8b6b45"/>
+<path d="M593,775 Q740,600 887,775 Z" fill="#5d4a33"/>
+<text x="410" y="755" class="l" text-anchor="middle" fill="#fff">A: filling</text>
+<text x="740" y="755" class="l" text-anchor="middle" fill="#fff">B: resting 12+ mo</text>
+<!-- collar -->
+<rect x="230" y="530" width="30" height="60" fill="#bfb7ad" stroke="#111" stroke-width="2"/>
+<rect x="890" y="530" width="30" height="60" fill="#bfb7ad" stroke="#111" stroke-width="2"/>
+<!-- platform with lift-out panels -->
+<rect x="220" y="500" width="710" height="30" fill="#a9825a" stroke="#111" stroke-width="3"/>
+<path d="M300,500 L300,530 M520,500 L520,530 M630,500 L630,530 M850,500 L850,530" stroke="#fff" stroke-width="3" stroke-dasharray="5 4"/>
+<!-- seats -->
+<rect x="330" y="430" width="160" height="70" fill="#d8c3a0" stroke="#111" stroke-width="3"/>
+<rect x="348" y="418" width="124" height="14" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="660" y="430" width="160" height="70" fill="#d8c3a0" stroke="#111" stroke-width="3"/>
+<rect x="678" y="418" width="124" height="14" fill="#777" stroke="#111" stroke-width="2"/>
+<text x="410" y="408" class="s" text-anchor="middle">seat + urine diverter</text>
+<text x="740" y="408" class="s" text-anchor="middle">lid screwed shut</text>
+<!-- urine pipe -->
+<path d="M490,460 C950,470 1000,480 1040,520" stroke="#c9a400" stroke-width="7" fill="none"/>
+<rect x="940" y="610" width="250" height="60" fill="#fff" opacity="0.92" rx="6"/><text x="950" y="634" class="s">urine pipe runs on</text><text x="950" y="658" class="s">to the tank (see 3)</text>
+<!-- vents -->
+<rect x="530" y="160" width="20" height="340" fill="#222"/>
+<rect x="860" y="160" width="20" height="340" fill="#222"/>
+<rect x="522" y="146" width="36" height="16" fill="#666"/><rect x="852" y="146" width="36" height="16" fill="#666"/>
+<!-- roof -->
+<path d="M140,190 L1080,280" stroke="#8a5a2b" stroke-width="10"/>
+<rect x="1040" y="280" width="16" height="310" fill="#8a5a2b"/>
+<text x="892" y="320" class="s">lean-to roof</text>
+<text x="580" y="140" class="s">vent pipes, fly-mesh caps</text>
+<!-- labels with backgrounds -->
+<rect x="150" y="878" width="1040" height="96" fill="#fff" opacity="0.92" rx="8"/>
+<text x="165" y="904" class="s">Divider wall splits the 1.8 x 1.2 m hole into two pits of about 0.9 x 1.2 m. Usable depth about 1 m.</text>
+<text x="165" y="930" class="s">Base: 25 cm of the hole's chopped branches (drainage), then straw. Block collar 2 courses high,</text>
+<text x="165" y="956" class="s">soil banked so rain runs away. Lift-out platform panels (dashed) for digging out from above.</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980">
+<style>@import url(common.css);</style>
+<rect width="1200" height="980" fill="#fff"/>
+<text x="40" y="50" class="t">1. Site plan - raised area behind the sunken area</text>
+<text x="40" y="84" class="s" fill="#333">View from above, not to scale. Wall at the top.</text>
+<!-- wall -->
+<rect x="60" y="110" width="1080" height="26" fill="#9a8f84" stroke="#111" stroke-width="2"/>
+<text x="600" y="129" class="s" text-anchor="middle" fill="#fff">GARDEN WALL</text>
+<!-- raised area -->
+<rect x="60" y="136" width="1080" height="520" fill="#eef3e6" stroke="#111" stroke-width="2"/>
+<text x="1120" y="645" class="l" text-anchor="end">RAISED AREA - drains well</text>
+<!-- nut trees -->
+<g fill="#cfe3c0" stroke="#4d7a3a" stroke-width="2.5" stroke-dasharray="8 6">
+<circle cx="180" cy="260" r="95"/><circle cx="1010" cy="250" r="100"/><circle cx="190" cy="520" r="90"/><circle cx="1020" cy="520" r="95"/>
+</g>
+<g fill="#6b4a2b"><circle cx="180" cy="260" r="12"/><circle cx="1010" cy="250" r="12"/><circle cx="190" cy="520" r="12"/><circle cx="1020" cy="520" r="12"/></g>
+<text x="180" y="300" class="s" text-anchor="middle">nut tree</text>
+<text x="1010" y="290" class="s" text-anchor="middle">nut tree</text>
+<!-- shelter -->
+<rect x="360" y="136" width="480" height="330" fill="#fff" stroke="#8a5a2b" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="372" y="162" class="s" fill="#8a5a2b">lean-to roof (dashed) against the wall</text>
+<!-- collar + hole -->
+<rect x="430" y="190" width="340" height="200" fill="#bfb7ad" stroke="#111" stroke-width="3"/>
+<rect x="450" y="210" width="145" height="160" fill="#d9c7a3" stroke="#111" stroke-width="2"/>
+<rect x="605" y="210" width="145" height="160" fill="#cfd8c4" stroke="#111" stroke-width="2"/>
+<rect x="595" y="210" width="10" height="160" fill="#666"/>
+<text x="522" y="245" class="l" text-anchor="middle">Pit A</text>
+<text x="522" y="270" class="s" text-anchor="middle">in use</text>
+<text x="678" y="245" class="l" text-anchor="middle">Pit B</text>
+<text x="678" y="270" class="s" text-anchor="middle">resting</text>
+<ellipse cx="522" cy="320" rx="34" ry="27" fill="#fff" stroke="#111" stroke-width="3"/>
+<ellipse cx="678" cy="320" rx="34" ry="27" fill="#999" stroke="#111" stroke-width="3"/>
+<circle cx="460" cy="200" r="8" fill="#111"/><circle cx="740" cy="200" r="8" fill="#111"/>
+<text x="600" y="420" class="s" text-anchor="middle">existing hole ~1.8 x 1.2 m, block collar round it</text>
+<!-- inside shelter kit -->
+<rect x="372" y="300" width="40" height="60" fill="#bcd7ef" stroke="#111" stroke-width="2"/>
+<rect x="788" y="300" width="40" height="60" fill="#e3c17a" stroke="#111" stroke-width="2"/>
+<text x="372" y="290" class="s">hand-wash</text>
+<text x="828" y="290" class="s" text-anchor="end">cover bin</text>
+<!-- entrance -->
+<path d="M560,466 L560,500 M640,466 L640,500" class="thin"/>
+<text x="600" y="526" class="s" text-anchor="middle">entrance (front)</text>
+<!-- urine -->
+<path d="M522,347 L522,380 L790,380 L862,462" stroke="#c9a400" stroke-width="5" fill="none" stroke-dasharray="14 6"/>
+<rect x="860" y="455" width="50" height="62" rx="8" fill="#f6e7a0" stroke="#111" stroke-width="2"/>
+<text x="922" y="480" class="s">sealed tank</text>
+<path d="M885,517 L885,560 L800,600" stroke="#c9a400" stroke-width="5" fill="none" stroke-dasharray="14 6"/>
+<rect x="360" y="585" width="460" height="40" fill="#cdb48a" stroke="#111" stroke-width="2"/>
+<text x="590" y="612" class="s" text-anchor="middle">wood-chip soakaway trench (overflow)</text>
+<!-- sunken -->
+<rect x="60" y="656" width="1080" height="190" fill="#dbe8f3" stroke="#111" stroke-width="2"/>
+<text x="600" y="715" class="l" text-anchor="middle">SUNKEN AREA - NOT USED</text>
+<text x="600" y="750" class="s" text-anchor="middle">holds water after days of heavy rain</text>
+<text x="600" y="800" class="s" text-anchor="middle">↓ path to house (light it for night use)</text>
+<!-- notes -->
+<text x="40" y="890" class="s">Nut trees: do NOT spread compost or urine where you gather nuts off the ground.</text>
+<text x="40" y="918" class="s">Keep the trench out of the nut-drop zone, or net / rake that ground before harvest.</text>
+<text x="40" y="946" class="s">Keep 10 m+ from any well, pond, ditch or drain; not uphill of drinking-water butts.</text>
+</svg>
